@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/candy4pennies/static/css/main.073c9b0a.css",
+    "main.js": "/candy4pennies/static/js/main.741a21c6.js",
+    "static/js/787.4ccbf8a9.chunk.js": "/candy4pennies/static/js/787.4ccbf8a9.chunk.js",
+    "static/media/logo.svg": "/candy4pennies/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/candy4pennies/index.html",
+    "main.073c9b0a.css.map": "/candy4pennies/static/css/main.073c9b0a.css.map",
+    "main.741a21c6.js.map": "/candy4pennies/static/js/main.741a21c6.js.map",
+    "787.4ccbf8a9.chunk.js.map": "/candy4pennies/static/js/787.4ccbf8a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.741a21c6.js"
+  ]
+}
