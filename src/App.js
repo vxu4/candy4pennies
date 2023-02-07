@@ -12,11 +12,11 @@ function App() {
   // )
   
   // USE STATE EXAMPLE
-  // const [display, setDisplay] = useState(false);
+  const [display, setDisplay] = useState(false);
 
   return (
     //IF STATE IS USED - ADD THIS IN BELOW value={{ display, remember }}
-    <AppContext.Provider >
+    <AppContext.Provider value={{ display }}>
       {/* POSITION: RELATIVE - SO THAT CHILDREN CAN BE ABSOLUTE AND LAYER? */}
       <div className="App" style={{position: 'relative'}}>
         <Window onClick={() => console.log("hihi")}/>
