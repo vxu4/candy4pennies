@@ -1,6 +1,7 @@
 import React, { useState, createContext } from 'react';
 import './App.css';
 import "98.css";
+import Products from './pages/Products';
 import Window from './components/window';
 
 export const AppContext = createContext();
@@ -19,7 +20,8 @@ function App() {
     <AppContext.Provider value={{ display }}>
       {/* POSITION: RELATIVE - SO THAT CHILDREN CAN BE ABSOLUTE AND LAYER? */}
       <div className="App" style={{position: 'relative'}}>
-        <Window onClick={() => console.log("hihi")}/>
+        {/* PRODUCT OFFERINGS */}
+        <Products />
       </div>
     </AppContext.Provider>
   );
