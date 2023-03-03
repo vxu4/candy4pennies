@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/candy4pennies/static/css/main.5056465e.css",
-    "main.js": "/candy4pennies/static/js/main.30034c85.js",
+    "main.js": "/candy4pennies/static/js/main.d099d20f.js",
     "static/js/787.4ccbf8a9.chunk.js": "/candy4pennies/static/js/787.4ccbf8a9.chunk.js",
     "static/media/STORE-01.png": "/candy4pennies/static/media/STORE-01.1e7f0c430779adeee810.png",
     "static/media/ms_sans_serif.woff": "/candy4pennies/static/media/ms_sans_serif.aac84aa6de42b83d1a62.woff",
@@ -10,11 +10,11 @@
     "static/media/ms_sans_serif_bold.woff2": "/candy4pennies/static/media/ms_sans_serif_bold.7fcf57cc6e87ecddbf64.woff2",
     "index.html": "/candy4pennies/index.html",
     "main.5056465e.css.map": "/candy4pennies/static/css/main.5056465e.css.map",
-    "main.30034c85.js.map": "/candy4pennies/static/js/main.30034c85.js.map",
+    "main.d099d20f.js.map": "/candy4pennies/static/js/main.d099d20f.js.map",
     "787.4ccbf8a9.chunk.js.map": "/candy4pennies/static/js/787.4ccbf8a9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5056465e.css",
-    "static/js/main.30034c85.js"
+    "static/js/main.d099d20f.js"
   ]
 }
