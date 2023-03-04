@@ -29,7 +29,15 @@ const WindowComponent = ({ onClick }) => {
   // }
 };
 
-const Window = ({ onClick, title, children, top = "30%", left = "30%" }) => {
+const Window = ({
+  onClick,
+  title,
+  children,
+  top = "30%",
+  left = "30%",
+  width,
+  height,
+}) => {
   return (
     <div
       style={{
@@ -39,12 +47,19 @@ const Window = ({ onClick, title, children, top = "30%", left = "30%" }) => {
         position: "absolute",
         top: top,
         left: left,
+        width: width,
+        height: height,
       }}
       className="window"
     >
       {/* TITLE BAR */}
       <div className="title-bar">
         <div className="title-bar-text">{title}</div>
+        {/* <div className="title-bar-controls">
+          <button aria-label="Minimize"></button>
+          <button aria-label="Maximize"></button>
+          <button aria-label="Close"></button>
+        </div> */}
       </div>
 
       {/* BODY */}

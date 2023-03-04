@@ -2,7 +2,7 @@
   "name": "candy-store",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://vxu4.github.io/candy4pennies",
+  "homepage": "https://vxu4.github.io/candy4pennies/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
